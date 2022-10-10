@@ -1,4 +1,4 @@
-# co51440d5a8c1a672ad02d323
+# Scrimba Diceroll
 
 Quick start:
 
